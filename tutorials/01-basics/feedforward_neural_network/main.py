@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 import torchvision
 import torchvision.transforms as transforms
+# import torch.utils.data
+# from torch.utils.data import DataLoader
 
 
 # Device configuration
